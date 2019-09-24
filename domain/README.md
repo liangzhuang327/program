@@ -1,2 +1,2 @@
 1、做一个程序部署到nginx，将页面中配置的用户名和ip+端口做一个映射，并生成一个nginx配置文件保存在nginx端。
-2、用户名 lz; ip：10.1.2.23; 端口：3000，通过本程序生成映射关系；当页面访问http://lz.liangliang.com;(自身配置的一级域名是liangliang.ren)的时候，nginx层将此域名转发至http://10.1.2.23:3003
+2、用户名 lz; ip：10.1.2.23; 端口：3000，通过本程序生成映射关系；当页面访问http://lz.liangliang.com;(自身配置的一级域名是liangliang.com)的时候，nginx层将此域名转发至http://10.1.2.23:3003
