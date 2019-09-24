@@ -1,0 +1,11 @@
+select, input[type="number"] {
+    width: 100px;
+}
+
+.color-red {
+    color: red;
+}
+
+.font-size-20 {
+    font-size: 20px;
+}

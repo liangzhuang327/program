@@ -1,0 +1,1113 @@
+{
+	"jinzihan": {
+		"password": "282454124a",
+		"iport": "http://10.1.252.20:3003/"
+	},
+	"fangqg": {
+		"password": "1",
+		"iport": "http://10.6.244.180:3003/"
+	},
+	"zhoucw": {
+		"password": "zhoucw",
+		"iport": "http://10.1.242.188:8080/"
+	},
+	"jinzh1": {
+		"password": "jinzihan09688",
+		"iport": "http://14:23:19 2019:3003/"
+	},
+	"zhangxini": {
+		"password": "upgs2014",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"liangzha": {
+		"password": "wunai000",
+		"iport": "http://10.6.208.189:3003/"
+	},
+	"zhaozhe": {
+		"password": "111111",
+		"iport": "http://10.1.225.156:3003/"
+	},
+	"limyd1": {
+		"password": "1",
+		"iport": "http://10.6.220.255:8000/"
+	},
+	"jiacy1": {
+		"password": "1",
+		"iport": "http://10.1.201.15:8080/"
+	},
+	"limy1": {
+		"password": "1",
+		"iport": "http://10.1.229.226:9000/"
+	},
+	"xiaojing": {
+		"password": "1",
+		"iport": "http://10.6.237.204:8080/"
+	},
+	"lhd": {
+		"password": "1",
+		"iport": "http://10.1.225.137:8080/"
+	},
+	"sb": {
+		"password": "123456",
+		"iport": "http://10.1.222.103:8080/"
+	},
+	"lhdnew": {
+		"password": "1",
+		"iport": "http://10.1.225.137:3003/"
+	},
+	"wangjun": {
+		"password": "1",
+		"iport": "http://10.11.117.151:8080/"
+	},
+	"limyd": {
+		"password": "1",
+		"iport": "http://10.6.207.201:8080/"
+	},
+	"yi": {
+		"password": "123456",
+		"iport": "http://10.6.192.198:8080/"
+	},
+	"shenlei": {
+		"password": "1",
+		"iport": "http://shenlei2017:8081/"
+	},
+	"yangpeng": {
+		"password": "111111",
+		"iport": "http://10.6.197.239:1521/"
+	},
+	"xiaojingtest": {
+		"password": "111111",
+		"iport": "http://10.6.214.6:8080/"
+	},
+	"wdh": {
+		"password": "123",
+		"iport": "http://WDH:8080/"
+	},
+	"WDH": {
+		"password": "123",
+		"iport": "http://10.6.216.22:8080/"
+	},
+	"WDH2": {
+		"password": "123",
+		"iport": "http://DESKTOP-I1UKQR1:8080/"
+	},
+	"admin": {
+		"password": "admin",
+		"iport": "http://10.6.207.133:90/"
+	},
+	"wangtianjiao": {
+		"password": "111qqq",
+		"iport": "http://10.6.218.109:8080/"
+	},
+	"congqt@yonyou.com": {
+		"password": "1congqingtao",
+		"iport": "http://10.6.247.249/"
+	},
+	"congqt": {
+		"password": "111111",
+		"iport": "http://10.6.214.244:9000/"
+	},
+	"test": {
+		"password": "test",
+		"iport": "http://10.6.219.229:90/"
+	},
+	"xiaojingretail": {
+		"password": "",
+		"iport": "http://10.6.246.206:8080/"
+	},
+	"lxqiang": {
+		"password": "lxq@57630537",
+		"iport": "http://10.6.197.39:8080/"
+	},
+	"wudh": {
+		"password": "123456a",
+		"iport": "http://DESKTOP-I1UKQR1:8080/"
+	},
+	"liucq1": {
+		"password": "278256322",
+		"iport": "http://10.6.252.254:90/"
+	},
+	"xiaojingtestip": {
+		"password": "123456",
+		"iport": "http://10.6.243.85:8080/"
+	},
+	"zhouchw3": {
+		"password": "zhouchenwen",
+		"iport": "http://10.6.246.69:3003/"
+	},
+	"undefined": {
+		"iport": "http://14:23:19 2019:3003/"
+	},
+	"jiacy": {
+		"password": "jcy352250",
+		"iport": "http://10.6.255.166:3003/"
+	},
+	"linagzha": {
+		"password": "wunai000",
+		"iport": "http://10.6.211.21:8080/"
+	},
+	"uretailtemp": {
+		"password": "123456",
+		"iport": "http://10.6.229.20:3003/"
+	},
+	"uretailtempserver.yonyouup.com": {
+		"password": "123456",
+		"iport": "http://10.6.229.20:8080/"
+	},
+	"uretailtempserver": {
+		"password": "123456",
+		"iport": "http://10.6.229.20:8080/"
+	},
+	"hanbba": {
+		"password": "hanbba",
+		"iport": "http://10.11.116.92:82/"
+	},
+	"dxcdistest": {
+		"password": "111111",
+		"iport": "http://20.10.80.181:80/"
+	},
+	"hanbb": {
+		"password": "111111",
+		"iport": "http://10.11.117.13:80/"
+	},
+	"hanna": {
+		"password": "111111",
+		"iport": "http://10.11.117.13:82/"
+	},
+	"dumf1": {
+		"password": "chaocao871131",
+		"iport": "http://10.11.116.140:8088/"
+	},
+	"jenkins": {
+		"password": "111111",
+		"iport": "http://http://172.20.4.167:8080/"
+	},
+	"zhanglinb": {
+		"password": "zhanglinabc",
+		"iport": "http://10.6.234.90:3003/"
+	},
+	"luominc": {
+		"password": "luominc",
+		"iport": "http://10.6.240.225:8089/"
+	},
+	"channel ": {
+		"password": "111111",
+		"iport": "http://172.20.15.192:7070/wbalone/"
+	},
+	"channel": {
+		"password": "111111",
+		"iport": "http://172.20.15.192:7070/wbalone/"
+	},
+	"congqingt": {
+		"password": "111111",
+		"iport": "http://10.6.214.244:9000/"
+	},
+	"xiaojingweb": {
+		"password": "111111",
+		"iport": "http://172.24.153.10:3003/"
+	},
+	"efklog": {
+		"password": "111111",
+		"iport": "http://10.10.12.76:80/"
+	},
+	"uretailmobile": {
+		"password": "111111",
+		"iport": "http://172.20.4.155:3004/"
+	},
+	"zackon": {
+		"password": "111111",
+		"iport": "http://10.11.116.52:9999/"
+	},
+	"zt": {
+		"password": "111111",
+		"iport": "http://10.11.116.52:9999/"
+	},
+	"pctest": {
+		"password": "111111",
+		"iport": "http://10.10.13.69:3006/"
+	},
+	"wangtj": {
+		"password": "111111",
+		"iport": "http://10.11.116.67:9999/"
+	},
+	"wangxq2": {
+		"password": "yonyou@1988",
+		"iport": "http://10.6.237.223:9999/"
+	},
+	"jianyu1": {
+		"password": "1",
+		"iport": "http://10.6.211.248:3003/"
+	},
+	"jianyu2": {
+		"password": "2",
+		"iport": "http://10.6.211.248:3004/"
+	},
+	"caihao": {
+		"password": "111111",
+		"iport": "http://10.11.64.76:80/"
+	},
+	"songsk": {
+		"password": "1",
+		"iport": "http://10.6.221.20:90/"
+	},
+	"upmalltest": {
+		"password": "111111",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"upmalltemp": {
+		"password": "111111",
+		"iport": "http://10.11.116.67:9999/"
+	},
+	"congiqngt": {
+		"password": "111111",
+		"iport": "http://10.6.249.104:9999/"
+	},
+	"administrator": {
+		"password": "yangpengh",
+		"iport": "http://10.6.210.77:80/"
+	},
+	"yangpengh": {
+		"password": "yangpengh",
+		"iport": "http://10.11.116.15:80/"
+	},
+	"c.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.12.166:9999/"
+	},
+	"ustocktest": {
+		"password": "123456",
+		"iport": "http://10.10.13.69:3006/"
+	},
+	"su": {
+		"password": "111111",
+		"iport": "http://172.20.4.155:3003/"
+	},
+	"zhangwenb": {
+		"password": "zhang32922",
+		"iport": "http://10.11.116.29:3008/"
+	},
+	"zhangtaos": {
+		"password": "111111",
+		"iport": "http://10.11.116.73:80/"
+	},
+	"utc": {
+		"password": "111111",
+		"iport": "http://10.10.12.221:80/"
+	},
+	"alldev": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:3006/"
+	},
+	"pcdev": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:3006/"
+	},
+	"memberdev": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:8082/"
+	},
+	"retaildev": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:3003/"
+	},
+	"0rderdev1": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:8002/"
+	},
+	"orderdev2": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:9001/"
+	},
+	"memberdev2": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:8082/"
+	},
+	"orderdev1": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:8522/"
+	},
+	"malldev": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:90/"
+	},
+	"10.6.198.158": {
+		"password": "1",
+		"iport": "http://limyd:8080/"
+	},
+	"orderdev": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:8006/"
+	},
+	"nextdev": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:8006/"
+	},
+	"hgs": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:3006/"
+	},
+	"nextdev1": {
+		"password": "111111",
+		"iport": "http://10.10.13.131:8006/"
+	},
+	"udh": {
+		"password": "111111",
+		"iport": "http://10.10.13.131:8006/"
+	},
+	"udhtest": {
+		"password": "111111",
+		"iport": "http://10.10.13.131:8006/"
+	},
+	"retailitg": {
+		"password": "111111",
+		"iport": "http://10.10.13.131:3003/"
+	},
+	"udhtg": {
+		"password": "111111",
+		"iport": "http://10.10.13.131:8006/"
+	},
+	"udhitg": {
+		"password": "111111",
+		"iport": "http://10.16.3.66:8006/"
+	},
+	"uhyitg": {
+		"password": "111111",
+		"iport": "http://10.10.13.131:8082/"
+	},
+	"umallitg": {
+		"password": "111111",
+		"iport": "http://10.16.3.40:9001/"
+	},
+	"mallpc": {
+		"password": "123456",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"upcitg": {
+		"password": "111111",
+		"iport": "http://10.16.3.64:3006/"
+	},
+	"zhanglinb2": {
+		"password": "zhanglinabc",
+		"iport": "http://10.6.234.90:3004/"
+	},
+	"liangzha1": {
+		"password": "wunai000",
+		"iport": "http://10.6.208.189:3004/"
+	},
+	"luhengk": {
+		"password": "yonyou@1988",
+		"iport": "http://10.11.116.93:9000/"
+	},
+	"zhaowq": {
+		"password": "111111",
+		"iport": "http://10.6.219.160:90/"
+	},
+	"t.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.12.166:9999/"
+	},
+	"d.umallitg": {
+		"password": "",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"yueyibo": {
+		"password": "123456",
+		"iport": "http://10.6.218.68:7001/"
+	},
+	"chenzfa": {
+		"password": "1981leesun",
+		"iport": "http://10.10.13.69:9001/"
+	},
+	"zhangchi11": {
+		"password": "yonyou@1988",
+		"iport": "http://10.6.222.83:8080/"
+	},
+	"sj.umalltest": {
+		"password": "",
+		"iport": "http://10.10.13.69:9001/"
+	},
+	"sj.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"sj.uhy": {
+		"password": "",
+		"iport": "http://10.10.13.69:8082/"
+	},
+	"sj.uretail": {
+		"password": "",
+		"iport": "http://10.10.13.69:3003/"
+	},
+	"sj2.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"sjjicheng.umalltest": {
+		"password": "",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"sjjicheng.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.13.69/"
+	},
+	"sjjctn.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.13.69/"
+	},
+	"sjjctn.umalltest": {
+		"password": "",
+		"iport": "http://10.10.13.69/"
+	},
+	"sj3.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"d2.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"zhangxin": {
+		"password": "upgs2014",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"flh": {
+		"password": "ufflhidea",
+		"iport": "http://10.6.197.23:3003/"
+	},
+	"flh1": {
+		"password": "ufflhidea",
+		"iport": "http://10.6.197.23:3004/"
+	},
+	"dr.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.12.93:9999/"
+	},
+	"d1.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.12.166:9999/"
+	},
+	"aa.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.12.93:9999/"
+	},
+	"d2": {
+		"password": "",
+		"iport": "http://10.10.12.106:9999/"
+	},
+	"retailitgserver": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:8080/"
+	},
+	"aaa": {
+		"password": "aaa",
+		"iport": "http://10.6.224.9:3003/"
+	},
+	"jinzh12": {
+		"password": "jinzihan09688",
+		"iport": "http://10.6.223.38:3004/"
+	},
+	"nsc": {
+		"password": "111111",
+		"iport": "http://10.6.240.23:8000/"
+	},
+	"nscweb": {
+		"password": "111111",
+		"iport": "http://10.6.240.23:3003/"
+	},
+	"fangqg1": {
+		"password": "1",
+		"iport": "http://10.6.244.180:3004/"
+	},
+	"lzq.upmalltest": {
+		"password": "",
+		"iport": "http://10.10.12.166:9999/"
+	},
+	"wjl.upmall": {
+		"password": "",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"mailiansj.umalltest": {
+		"password": "",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"zwq": {
+		"password": "11",
+		"iport": "http://10.6.236.44:7001/"
+	},
+	"app.umalltest": {
+		"password": "111111",
+		"iport": "http://10.11.116.73:3000/"
+	},
+	"zack": {
+		"password": "upgs2014",
+		"iport": "http://10.11.116.73:3004/"
+	},
+	"omstest": {
+		"password": "123456",
+		"iport": "http:// 172.20.55.84: 3303/"
+	},
+	"lhhoms": {
+		"password": "123456",
+		"iport": "http://10.6.215.137:8080/"
+	},
+	"wwd": {
+		"password": "111111",
+		"iport": "http://10.11.116.66:8000/"
+	},
+	"devops": {
+		"password": "123456",
+		"iport": "http://10.10.12.199:3003/"
+	},
+	"131mall": {
+		"password": "",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"dxcdemo": {
+		"password": "",
+		"iport": "http://10.3.33.46:9999/"
+	},
+	"daoxiangcun.umall": {
+		"password": "",
+		"iport": "http://10.3.33.46:9999/"
+	},
+	"daoxiangcun.jc": {
+		"password": "",
+		"iport": "http://10.3.33.46:9999/"
+	},
+	"sdemo.mall": {
+		"password": "",
+		"iport": "http://10.3.33.46:9999/"
+	},
+	"wangwdt": {
+		"password": "yonyou@1988",
+		"iport": "http://10.11.116.57:8000/"
+	},
+	"omsdemo": {
+		"password": "123456",
+		"iport": "http://172.20.55.92:3003/"
+	},
+	"omsdemoserver": {
+		"password": "123456",
+		"iport": "http://172.20.55.92:8090/"
+	},
+	"zqmalltest": {
+		"password": "",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"sunjian": {
+		"password": "sunjian70191",
+		"iport": "http://172.20.55.84:3303/"
+	},
+	"omsdemo2": {
+		"password": "sunjian70191",
+		"iport": "http:// 172.20.55.153:3003/"
+	},
+	"omsdemotest": {
+		"password": "123456",
+		"iport": "http://172.20.55.153:3003/"
+	},
+	"yht": {
+		"password": "111111",
+		"iport": "http://10.10.13.69:8280/"
+	},
+	"yhttest": {
+		"password": "111111",
+		"iport": "http://10.10.13.69:8280/"
+	},
+	"uapcloud": {
+		"password": "111111",
+		"iport": "http://20.12.11.101:80/"
+	},
+	"jinzh11": {
+		"password": "jinzihan09688",
+		"iport": "http://10.6.248.139:3004/"
+	},
+	"mretail": {
+		"password": "123456",
+		"iport": "http://39.97.8.155:80/"
+	},
+	"cjtatest": {
+		"password": "",
+		"iport": "http://10.10.12.72:9999/"
+	},
+	"bpmCallback": {
+		"password": "",
+		"iport": "http://10.6.241.89:8080/"
+	},
+	"mallpca": {
+		"password": "",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"mallpcb": {
+		"password": "",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"kf.uretail": {
+		"password": "",
+		"iport": "http://10.3.33.8:80/"
+	},
+	"m.mall": {
+		"password": "",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"mallxja": {
+		"password": "",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"udhitgapi": {
+		"password": "",
+		"iport": "http://10.16.3.66:8180/"
+	},
+	"udhitgservice": {
+		"password": "",
+		"iport": "http://10.16.3.66:7001/"
+	},
+	"udhitgmobile": {
+		"password": "",
+		"iport": "http://10.16.3.66:8005/"
+	},
+	"upcitgserver": {
+		"password": "123456",
+		"iport": "http://10.10.13.131:8000/"
+	},
+	"udtitgapi": {
+		"password": "",
+		"iport": "http://10.10.13.131:8003/"
+	},
+	"upmallnewtest": {
+		"password": "111",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"mall": {
+		"password": "",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"mallsj": {
+		"password": "",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"download": {
+		"password": "download",
+		"iport": "http://10.10.13.69:3004/"
+	},
+	"test.umall": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"mallsu": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"mallsc": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"zhaozhe@yonyou.com": {
+		"password": "Zz_-2010",
+		"iport": "http://10.6.211.111:8085/"
+	},
+	"zhanglinb@yonyouup.com": {
+		"password": "zhanglin123",
+		"iport": "http://10.6.211.111:8085/"
+	},
+	"zhaozhe8": {
+		"password": "Zz_-2010",
+		"iport": "http://10.6.211.111:8085/"
+	},
+	"zhaowqf@yonyou.com": {
+		"password": "yonyou@0908",
+		"iport": "http://10.6.192.1:8082/"
+	},
+	"zhaowqf": {
+		"password": "yonyou@0908",
+		"iport": "http://10.6.208.60:8000/"
+	},
+	"upcitgmgt": {
+		"password": "123456",
+		"iport": "http://10.16.3.64:8000/"
+	},
+	"wangjc": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"dxc": {
+		"password": "",
+		"iport": "http://10.3.33.46:9999/"
+	},
+	"dxcmall": {
+		"password": "",
+		"iport": "http://10.3.33.46:9999/"
+	},
+	"malldxc": {
+		"password": "",
+		"iport": "http://10.3.33.46:9999/"
+	},
+	"zhaozhe9": {
+		"password": "1234569",
+		"iport": "http://10.6.250.172:8085/"
+	},
+	"mallktv": {
+		"password": "",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"mallpm": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"dxctestdemo.mall": {
+		"password": "",
+		"iport": "http://10.10.13.47:9999/"
+	},
+	"wangyda": {
+		"password": "wangyda",
+		"iport": "http://172.20.55.84:3303/"
+	},
+	"zcftest001": {
+		"password": "123456",
+		"iport": "http://10.6.220.54:8085/"
+	},
+	"zcftest0002": {
+		"password": "123456",
+		"iport": "http://10.6.193.160:8085/"
+	},
+	"liangzha2": {
+		"password": "wunai000",
+		"iport": "http://10.6.235.17:3003/"
+	},
+	"zhaoyin3": {
+		"password": "Uf159357",
+		"iport": "http://10.10.13.69:8005/"
+	},
+	"sjmobile.udh": {
+		"password": "Uf159357",
+		"iport": "http://10.10.13.69:8005/"
+	},
+	"omspre.yonyouup.com": {
+		"password": "",
+		"iport": "http://http://10.3.17.46/login/"
+	},
+	"omspre": {
+		"password": "",
+		"iport": "http://10.3.17.46/"
+	},
+	"udhi.yonyouup.com": {
+		"password": "",
+		"iport": "http://10.10.13.131:8006/"
+	},
+	"udhi": {
+		"password": "",
+		"iport": "http://10.10.13.131:8006/"
+	},
+	"udhiapi": {
+		"password": "",
+		"iport": "http://10.10.13.131:8003/"
+	},
+	"udhimobile": {
+		"password": "",
+		"iport": "http://10.10.13.131:8005/"
+	},
+	"omstestnew": {
+		"password": "123456",
+		"iport": "http://172.20.55.84:3303/"
+	},
+	"omstestserver": {
+		"password": "123456",
+		"iport": "http://172.20.55.84:8090/"
+	},
+	"omsserver": {
+		"password": "",
+		"iport": "http://172.20.55.84:8090/"
+	},
+	"sj.udhapi": {
+		"password": "",
+		"iport": "http://10.10.13.69:8003/"
+	},
+	"congqingtao": {
+		"password": "111111",
+		"iport": "http://10.6.234.240:8080/"
+	},
+	"zhangchengfei3": {
+		"password": "",
+		"iport": "http://10.6.235.122:8085/"
+	},
+	"zhangchengfei4": {
+		"password": "",
+		"iport": "http://10.6.235.122:3003/"
+	},
+	"democeshi": {
+		"password": "",
+		"iport": "http://10.6.227.132:8080/"
+	},
+	"zhangchengfei": {
+		"password": "",
+		"iport": "http://10.6.236.44:8085/"
+	},
+	"wensha": {
+		"password": "upgs2014",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"wenshaktv": {
+		"password": "upgs2014",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"omsapipre": {
+		"password": "",
+		"iport": "http://10.3.17.46/"
+	},
+	"mallyhktv": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"cjt.mallity": {
+		"password": "",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"cjt.mallitg": {
+		"password": "",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"chengyj": {
+		"password": "1",
+		"iport": "http://10.11.116.62:8080/"
+	},
+	"malw1": {
+		"password": "upgs2014",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"zhoujjt": {
+		"password": "yonyou@1988",
+		"iport": "http://10.6.222.45:3004/"
+	},
+	"zhoujjt1": {
+		"password": "yonyou@1988",
+		"iport": "http://10.6.222.45:3004/"
+	},
+	"mall1024": {
+		"password": "",
+		"iport": "http://10.10.13.69:9999/"
+	},
+	"zhangxinitest": {
+		"password": "upgs2014",
+		"iport": "http://10.10.13.131:9999/"
+	},
+	"malljinyi": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"upcmgtitg": {
+		"password": "111111",
+		"iport": "http://10.16.3.64:8000/"
+	},
+	"umallitg123": {
+		"password": "123",
+		"iport": "http://10.16.3.40:9001/"
+	},
+	"umall": {
+		"password": "itg",
+		"iport": "http://10.16.3.40:9001/"
+	},
+	"umalli": {
+		"password": "124tg",
+		"iport": "http://10.16.3.40:9001/"
+	},
+	"omsapi2": {
+		"password": "123456",
+		"iport": "http://10.3.17.46:80/"
+	},
+	"oms2": {
+		"password": "123456",
+		"iport": "http://10.3.17.46:80/"
+	},
+	"next": {
+		"password": "udhitg",
+		"iport": "http://10.16.224.142:9000/"
+	},
+	"upromotion": {
+		"password": "",
+		"iport": "http://172.20.58.111:3003/"
+	},
+	"upromotiontest": {
+		"password": "111",
+		"iport": "http://172.20.58.111:3003/"
+	},
+	"udm": {
+		"password": "",
+		"iport": "http://10.16.3.40:3003/"
+	},
+	"uretailzc": {
+		"password": "",
+		"iport": "http://10.16.3.44:3003/"
+	},
+	"zhangxin1": {
+		"password": "upgs2014",
+		"iport": "http://47.96.121.143:9999/"
+	},
+	"mallsu.yonyouup.com": {
+		"password": "upgs2014",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"ximatest": {
+		"password": "upgs2014",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"app.upmalltest": {
+		"password": "upgs2014",
+		"iport": "http://10.16.3.40:3000/"
+	},
+	"mallzc": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"shilg@youyon.com": {
+		"password": "yonyou@1988",
+		"iport": "http://10.11.116.11:9001/"
+	},
+	"ptools": {
+		"password": "yonyou@1988",
+		"iport": "http://10.11.116.11:9009/"
+	},
+	"billtools": {
+		"password": "yonyou@1988",
+		"iport": "http://10.11.116.11:9009/"
+	},
+	"jiacyy": {
+		"password": "jcy352250",
+		"iport": "http://10.6.255.166:3004/"
+	},
+	"zhangw": {
+		"password": "111111",
+		"iport": "http://http://10.6.222.206:8000/"
+	},
+	"omsrundeck": {
+		"password": "123456",
+		"iport": "http://172.20.55.153:4440/"
+	},
+	"k3cloud": {
+		"password": "111111",
+		"iport": "http://172.20.56.19:80/"
+	},
+	"umallmobile": {
+		"password": "",
+		"iport": "http://10.16.3.40:3000/"
+	},
+	"upcdoc": {
+		"password": "123456",
+		"iport": "http://10.16.3.64:3000/"
+	},
+	"mallkill": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"zhouchw31": {
+		"password": "zhouchenwen",
+		"iport": "http://10.6.246.69:3004/"
+	},
+	"wangxinr": {
+		"password": "19960309@qym",
+		"iport": "http://10.6.229.152:3003/"
+	},
+	"wangxinr1": {
+		"password": "19960309@qym",
+		"iport": "http://10.6.229.152:3004/"
+	},
+	"haoljh": {
+		"password": "yonyou000",
+		"iport": "http://192.168.199.220:8769/"
+	},
+	"dev.mall": {
+		"password": "",
+		"iport": "http://10.10.13.47:9999/"
+	},
+	"omsdemoupdate": {
+		"password": "123456",
+		"iport": "http://172.20.55.92:8099/"
+	},
+	"testmf": {
+		"password": "123456",
+		"iport": "http://10.16.3.72:3003/"
+	},
+	"zsrmall": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"upmmgt": {
+		"password": "",
+		"iport": "http://172.20.58.111:8080/"
+	},
+	"zhangtaoaf": {
+		"password": "sky0426sea.",
+		"iport": "http://10.6.231.209:80/"
+	},
+	"baoxiao": {
+		"password": "111111",
+		"iport": "http://192.168.210.120:80/"
+	},
+	"dubbo-admin": {
+		"password": "",
+		"iport": "http://172.20.58.111:8081/"
+	},
+	"dsttest1": {
+		"password": "",
+		"iport": "http://10.16.3.40:9999/"
+	},
+	"shilg@yonyouup.com": {
+		"password": "3976290",
+		"iport": "http://10.11.116.11:9001/"
+	},
+	"hbuildtest": {
+		"password": "3976290",
+		"iport": "http://10.11.116.11:9001/"
+	},
+	"shilgtest1": {
+		"password": "3976290",
+		"iport": "http://10.11.116.11:9001/"
+	},
+	"shilg": {
+		"password": "",
+		"iport": "http://10.11.116.11:9001/"
+	},
+	"shilgtest": {
+		"password": "",
+		"iport": "http://10.11.116.11:9001/"
+	},
+	"shilg33": {
+		"password": "3976290",
+		"iport": "http://10.11.116.11:9001/"
+	},
+	"sssss1": {
+		"password": "3976290",
+		"iport": "http://10.11.116.11:9001/"
+	},
+	"uuuu": {
+		"password": "",
+		"iport": "http://10.11.116.11:9001/"
+	},
+	"liufangt@yonyou.com": {
+		"password": "yonyou@1988",
+		"iport": "http://10.6.247.92:3003/"
+	},
+	"liufangt": {
+		"password": "yonyou@1988",
+		"iport": "http://10.6.254.96:3003/"
+	},
+	"liufangtt": {
+		"password": "yonyou@1988",
+		"iport": "http://10.6.247.92:3004/"
+	},
+	"yangleih": {
+		"password": "yanglei123456",
+		"iport": "http://10.6.255.12:3003/"
+	},
+	"yangleihf": {
+		"password": "yanglei123456",
+		"iport": "http://10.6.216.162/"
+	},
+	"liufangt1": {
+		"password": "yonyou@1988",
+		"iport": "http://10.6.254.96:3004/"
+	},
+	"yangleih1": {
+		"password": "yanglei123456",
+		"iport": "http://10.6.255.12:3004/"
+	}
+}
